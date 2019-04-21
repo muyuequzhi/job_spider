@@ -22,9 +22,6 @@ START_URL = (
 )
 
 get_urls = []
-def pb():
-    for i in tqdm(range(10000)):
-        time.sleep(0.01)
 
 def job_spider():
     """
@@ -157,9 +154,7 @@ def word_cloud():
     ).generate_from_frequencies(
         counter
     )
-    #    plt.imshow(wc)
-    #    plt.axis("off")
-    #    plt.show()
+
     wc.to_file("wc.jpg")
 
 
