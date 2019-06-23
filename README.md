@@ -19,6 +19,7 @@
 3.通过郑州与上海的对比图， 来决定将来是留在本地还是去上海
 
 4.通过jieba、词云统计词频， 看哪些是企业招聘时看重的，来查漏补缺，找对方向提升自己。
+
 上海地区的
 ![image](https://github.com/muyuequzhi/job_spider/blob/master/%E4%B8%8A%E6%B5%B7/%E4%B8%8A%E6%B5%B7%E8%AF%8D%E4%BA%91.jpg)
 郑州地区的
